@@ -1,27 +1,24 @@
-<!-- ==================== HERO ==================== -->
+<!-- =============== ANIMATED TECH HEADER =============== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Divesh%20Jadhav&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:020617,45:1d4ed8,100:06b6d4&desc=QA%20AUTOMATION%20%20%E2%9E%9C%20%20DATA%20ENGINEERING&descAlignY=60&descSize=17" width="100%" alt="Divesh Jadhav portfolio banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,30:082F72,65:075985,100:06B6D4&text=Divesh%20Jadhav&fontSize=58&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=QA%20AUTOMATION%20%20%E2%86%92%20%20DATA%20ENGINEERING&descSize=17&descAlignY=59" alt="Divesh Jadhav tech banner"/>
 
-<a href="https://github.com/divesh-sys">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/divesh-jadhav-813259151/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:diveshjadhav1193@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=divesh-sys&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+<!-- YOUR GITHUB PROFILE PHOTO -->
+
+<img src="https://github.com/divesh-sys.png?size=240" width="165" height="165" style="border-radius:50%;" alt="Divesh Jadhav profile photo"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=QA+Automation+Engineer;Building+Reliable+Data+Pipelines;Playwright+%2B+Jenkins+%2B+Databricks;PySpark+%7C+Delta+Lake+%7C+SQL;Automate.+Validate.+Engineer." alt="Animated role descriptions"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=QA+Automation+Engineer;Transitioning+into+Data+Engineering;Playwright+%7C+Jenkins+%7C+Databricks;PySpark+%7C+Delta+Lake+%7C+SQL;Automate.+Validate.+Build+with+Quality." alt="Animated developer introduction"/>
 
-### Building quality into every pipeline. ⚡
+**Better Code · Better Data · Better Tomorrow**
 
-*From testing software to engineering trusted data systems.*
+<a href="https://github.com/divesh-sys"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/divesh-jadhav-813259151/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:diveshjadhav1193@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=divesh-sys&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -29,54 +26,67 @@
 
 ## 👨‍💻 About Me
 
-```python
-class DiveshJadhav:
-    role = "QA Automation Engineer → Data Engineer"
+<table>
+<tr>
+<td width="58%" valign="top">
 
-    currently_learning = [
-        "Databricks",
-        "PySpark",
-        "Delta Lake",
-        "Data Pipeline Testing",
-    ]
+### Hey, I'm Divesh! 👋
 
-    core_strength = "Quality-first engineering"
+I'm a **QA Automation Engineer growing into Data Engineering**, passionate about automation, data quality, and building reliable systems.
 
-    philosophy = "Automate the process. Validate the results."
-```
+I bring a quality-first mindset to data engineering: pipelines should not only process data, but also validate it and deliver results you can trust.
 
-I'm a QA Automation Engineer expanding into Data Engineering, with a focus on building **reliable, testable, and maintainable systems**.
+- 🧪 End-to-end UI automation with **Playwright**
+- 🔄 CI/CD automation using **Jenkins**
+- ⚡ Data processing with **Databricks and PySpark**
+- 🏗️ Lakehouse architecture with **Delta Lake**
+- 🔍 Exploring automated data quality and pipeline testing
 
-- 🧪 End-to-end UI automation using **Playwright**
-- 🔄 CI/CD pipelines and automated execution with **Jenkins**
-- ⚡ Data engineering with **Databricks and PySpark**
-- 🏗️ Lakehouse pipelines using **Delta Lake and Medallion Architecture**
-- 🔍 Exploring automated data validation and pipeline testing
+**My goal:** Build scalable data pipelines with automated quality checks from day one.
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=python,java,git,github&theme=dark" alt="Development technologies"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/QUALITY-FIRST-38BDF8?style=for-the-badge" alt="Quality first"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AUTOMATION-22C55E?style=for-the-badge" alt="Automation"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/DATA-ENGINEERING-A78BFA?style=for-the-badge" alt="Data engineering"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Technology Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Data Engineering
+### 🏗️ Data Engineering
 
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-<img src="https://img.shields.io/badge/PySpark-FF9A00?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
 <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white" alt="Delta Lake"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 
-### QA & Automation
+### 🧪 QA & Automation
 
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
 <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
 
-### Development Tools
+### 💻 Developer Tools
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode&theme=dark" alt="Developer tools"/>
 
 </div>
 
@@ -91,16 +101,20 @@ I'm a QA Automation Engineer expanding into Data Engineering, with a focus on bu
 <h3>🧪 Playwright SauceDemo Automation</h3>
 
 <a href="https://github.com/divesh-sys/playwright-saucedemo-automation">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="View automation project"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Explore Playwright project"/>
 </a>
 
-**The focus:** Reliable end-to-end UI testing.
+<br/><br/>
 
-- Automated browser testing with Playwright
-- Repeatable test execution
+An end-to-end UI automation framework focused on reliable browser testing and continuous integration.
+
+**Highlights**
+
+- Automated UI test execution
+- Playwright testing workflows
 - Jenkins pipeline integration
 
-**Stack:** Playwright · Jenkins · CI/CD
+**Tech:** Playwright · Jenkins
 
 </td>
 <td width="50%" valign="top">
@@ -108,16 +122,20 @@ I'm a QA Automation Engineer expanding into Data Engineering, with a focus on bu
 <h3>⚡ Germany Electricity Data Pipeline</h3>
 
 <a href="https://github.com/divesh-sys/databricks-energy-pipeline">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View data engineering project"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore data pipeline project"/>
 </a>
 
-**The focus:** Transforming energy data into analytics-ready datasets.
+<br/><br/>
 
-- Databricks and PySpark processing
-- Bronze → Silver → Gold architecture
+A data engineering project exploring electricity data processing with a lakehouse architecture.
+
+**Highlights**
+
+- Databricks and PySpark
+- Bronze / Silver / Gold layers
 - Delta Lake and dashboard-oriented analytics
 
-**Stack:** Databricks · PySpark · Delta Lake · SQL
+**Tech:** Databricks · PySpark · Delta Lake · SQL
 
 </td>
 </tr>
@@ -125,30 +143,25 @@ I'm a QA Automation Engineer expanding into Data Engineering, with a focus on bu
 
 ---
 
-## 🏗️ Engineering Reliable Data
+## 🔷 Data Engineering Architecture
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-BRONZE%20%7C%20RAW%20DATA-CD7F32?style=for-the-badge" alt="Bronze raw data"/>
+<img src="https://img.shields.io/badge/01%20%7C%20BRONZE-Raw%20Data-CD7F32?style=for-the-badge" alt="Bronze raw data"/>
 &nbsp; ➜ &nbsp;
-<img src="https://img.shields.io/badge/02-SILVER%20%7C%20CLEAN%20DATA-64748B?style=for-the-badge" alt="Silver clean data"/>
+<img src="https://img.shields.io/badge/02%20%7C%20SILVER-Clean%20%26%20Validated-64748B?style=for-the-badge" alt="Silver validated data"/>
 &nbsp; ➜ &nbsp;
-<img src="https://img.shields.io/badge/03-GOLD%20%7C%20BUSINESS%20READY-D4A017?style=for-the-badge" alt="Gold analytics-ready data"/>
+<img src="https://img.shields.io/badge/03%20%7C%20GOLD-Analytics%20Ready-D4A017?style=for-the-badge" alt="Gold analytics data"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Data%20Quality-Validation-0EA5E9?style=flat-square" alt="Data quality"/>
+<img src="https://img.shields.io/badge/Automation-Reproducible%20Pipelines-22C55E?style=flat-square" alt="Automation"/>
+<img src="https://img.shields.io/badge/Delivery-CI%2FCD-A78BFA?style=flat-square" alt="CI/CD"/>
 
 </div>
 
-| Layer | Engineering objective |
-|---|---|
-| 🥉 Bronze | Ingest and preserve raw source data |
-| 🥈 Silver | Clean, validate, and transform datasets |
-| 🥇 Gold | Prepare analytics-ready data for reporting |
-
-**My quality-first approach:**
-
-- Validate data assumptions early.
-- Automate repeatable checks.
-- Integrate testing into delivery workflows.
-- Build pipelines that are easier to debug and maintain.
+My engineering philosophy is simple: **ingest carefully, transform reliably, validate continuously, and deliver trusted data.**
 
 ---
 
@@ -163,30 +176,25 @@ I'm a QA Automation Engineer expanding into Data Engineering, with a focus on bu
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divesh-sys&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most-used languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=divesh-sys&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divesh-sys&theme=tokyo-night&hide_border=true&area=true&point=38BDF8" alt="GitHub activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divesh-sys&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph"/>
 
 </div>
 
 ---
 
-## 🎯 The Road Ahead
+## 🎯 Currently Building Toward
 
-<div align="center">
-
-| Goal | Direction |
-|:--|:--|
-| ⚙️ Pipeline automation | Integrating automated tests into data workflows |
-| 🧱 Lakehouse engineering | Developing robust PySpark and Delta Lake pipelines |
-| 🔍 Data quality | Building validation and consistency checks |
-| 📈 Analytics | Delivering trusted, analytics-ready datasets |
-
-</div>
+- 🔬 Automated data quality checks
+- ⚙️ Reliable ETL/ELT workflows
+- 🧱 Scalable PySpark and Delta Lake pipelines
+- 🚦 CI/CD for data engineering projects
+- 📈 End-to-end data solutions with trusted outputs
 
 ---
 
@@ -194,23 +202,15 @@ I'm a QA Automation Engineer expanding into Data Engineering, with a focus on bu
 
 <div align="center">
 
-**Interested in QA Automation, Data Engineering, or building reliable data products?**
+**Have an interesting project or an idea around automation and data? Let's connect!**
 
-Let's exchange ideas and build something meaningful.
-
-<a href="https://www.linkedin.com/in/divesh-jadhav-813259151/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-<a href="mailto:diveshjadhav1193@gmail.com">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
-</a>
+<a href="https://www.linkedin.com/in/divesh-jadhav-813259151/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:diveshjadhav1193@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
 *“Quality isn't a final checkpoint. It's built into every step.”*
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:020617&height=120&section=footer" width="100%" alt="Portfolio footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:1D4ED8,100:020617" alt="Animated tech footer"/>
 
 </div>
